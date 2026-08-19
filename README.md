@@ -234,16 +234,43 @@ Possible extensions include:
 
 ---
 
-## Author
+## Authors
+
+**Ayushi Bhati**
+
+Department of Computer Science
+
+Lakshmibai College, University of Delhi
+
+---
+
+**Ankit Kumar**
+
+Dissertation Supervisor
+
+Department of Computer Science
+
+Lakshmibai College, University of Delhi
+
+---
+
+## Academic Publication
+
+Presented at:
+
+**2AI 2026 - Second International Conference on Applied Artificial Intelligence**
+
+Publication:
+
+**Springer Conference Proceedings**
+
+---
+
+## Contact
 
 Ayushi Bhati
 
-Computer Science Graduate
-
-University of Delhi
-
 LinkedIn:
+
 https://www.linkedin.com/in/ayushi-bhati-b8653a278/
 
-Google Scholar:
-https://scholar.google.com/citations?user=ky5nLvkAAAAJ&hl=en
