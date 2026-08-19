@@ -175,46 +175,42 @@ FAISS was used as the retrieval engine.
 
 ---
 
-## Evaluation
+## Experimental Outcomes
 
-| Metric | Score |
-| --- | --- |
-| Semantic Similarity | 0.62 |
-| Retrieval Relevance | 0.48 |
-| Hallucination Rate | 0.00 |
-| ROUGE-1 | 0.3410 |
-| ROUGE-2 | 0.1163 |
-| ROUGE-L | 0.2847 |
+The system was evaluated across multiple tasks, including:
+
+- Multilingual question answering
+- Machine translation
+- Text summarization
+- Retrieval-augmented generation
+
+The experimental findings demonstrated improvements in retrieval quality, response grounding, multilingual accessibility, and hallucination control.
+
+A detailed discussion of the evaluation methodology and complete experimental results is available in the associated dissertation and Springer conference publication.
 
 ---
 
 ## Research Publication
 
-Accepted at the Second International Conference on Applied Artificial Intelligence (2AI 2026).
+This work was accepted for presentation at the Second International Conference on Applied Artificial Intelligence (2AI 2026) and published in Springer Conference Proceedings.
 
-Publication venue:
+Research contributions include:
 
-Springer Conference Proceedings.
+- Multilingual question answering
+- Knowledge distillation
+- Machine translation
+- Text summarization
+- Retrieval-augmented generation
+- Hallucination reduction through retrieval grounding
 
-Research areas:
-
-* Multilingual NLP
-
-* Question answering
-
-* Machine translation
-
-* Text summarization
-
-* Retrieval-augmented generation
-
+  
 ---
 
 ## Project Status
 
-The implementation and experimental work from this research contributed to a Springer conference publication and an undergraduate dissertation.
+This repository provides a high-level overview of the research methodology, system architecture, and experimental workflow.
 
-The source code associated with the publication is not publicly available.
+The complete implementation was developed as part of an undergraduate dissertation and a Springer conference publication.
 
 ---
 
