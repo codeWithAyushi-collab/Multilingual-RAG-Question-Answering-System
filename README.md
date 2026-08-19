@@ -210,11 +210,11 @@ Research areas:
 
 ---
 
-## Limitations
+## Project Status
 
-The source code associated with the dissertation is not included in this repository.
+The implementation and experimental work from this research contributed to a Springer conference publication and an undergraduate dissertation.
 
-This repository is intended to document the system design, methodology, architecture, and research outcomes.
+The source code associated with the publication is not publicly available.
 
 ---
 
